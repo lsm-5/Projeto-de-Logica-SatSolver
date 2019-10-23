@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <bits/stdc++.h>
 using namespace std;
-
+//opa mano
 string metodobinario (int num) {
     string bin="";
     if(num>0)
